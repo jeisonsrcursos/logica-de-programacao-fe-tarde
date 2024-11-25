@@ -22,13 +22,13 @@ programa
 		num_4 = 8
 
 		teste_1 = num_2 == num_3
-		escreva(teste_1 + "\n")
+		escreva("1 == 5 " + teste_1 + "\n")
 
 		teste_2 = num_3 != num_4
-		escreva(teste_2 + "\n")
+		escreva("5 != 8 " + teste_2 + "\n")
 
 		teste_3 = num_1 <= num_2
-		escreva(teste_3 + "\n")
+		escreva("1 <= 1 " + teste_3 + "\n")
 		
 	}
 }
@@ -37,7 +37,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 442; 
+ * @POSICAO-CURSOR = 358; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
