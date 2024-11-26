@@ -19,7 +19,7 @@ programa
 
 		se(num_1 == num_2) { // if
 			escreva("O número " + num_1 + " é igual ao " + num_2)
-		} senao se(num_1 > num_2) {
+		} senao se(num_1 > num_2) { // elif => python
 			escreva("O número " + num_1 + " é maior que " + num_2)
 		} senao { // else
 			escreva("O número " + num_1 + " é memor que " + num_2)
@@ -33,7 +33,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 573; 
+ * @POSICAO-CURSOR = 388; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

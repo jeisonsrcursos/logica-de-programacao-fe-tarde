@@ -13,7 +13,8 @@ programa
 		// num_2 = 3
 		// num_3 = 2
 		// num_4 = 1
-		
+
+		// Estrutura condicional se-senao
 		se(num_1 > num_2 ou num_3 < num_4) {
 			escreva("Verdadeiro")
 		} senao {
@@ -26,7 +27,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 227; 
+ * @POSICAO-CURSOR = 239; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
